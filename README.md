@@ -1,4 +1,4 @@
-# FDSL-Assignments-SPPU
+# FDSL-Assignments-SPPU 2022
 The codes in the repository is just for taking refrences, please do not copy entire code. see and just take hints
 
 1 In second year computer engineering class, group A student’s play cricket, group B students
