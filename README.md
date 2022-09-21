@@ -1,7 +1,7 @@
 # FDSL-Assignments-SPPU 2022
 The codes in the repository is just for taking refrences, please do not copy entire code. see and just take hints
 
-1 In second year computer engineering class, group A student’s play cricket, group B students
+1. In second year computer engineering class, group A student’s play cricket, group B students
 play badminton and group C students play football.
 Write a Python program using functions to compute following: -
     a) List of students who play both cricket and badminton
@@ -17,3 +17,10 @@ N students in the class. Write functions to compute following:
     b) Highest score and lowest score of class
     c) Count of students who were absent for the test
     d) Display mark with highest frequency
+
+3. Write a Python program for department library which has N books, write functions for
+following:
+    a) Delete the duplicate entries
+    b) Display books in ascending order based on cost of books
+    c) Count number of books with cost more than 500.
+    d) Copy books in a new list which has cost less than 500.
